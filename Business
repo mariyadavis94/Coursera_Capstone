@@ -1,0 +1,8 @@
+Business Problem
+For the project in the Applied Data Science Capstone course, Coursera have provided a data set.The dataset used for this project is based on car accidents which have taken place within the city of Seattle.It contains information such as severity, location, collision type,Weather conditions, road condition and light conditions.This project mainly aims to predict how severity of accidents can be reduced based on a some factors.
+                                            The target audience of this project is car drivers, police,  goverment authorities.The result of this project help to advice the audience about the possibility of getting into a car accident and how severe it would be, based on the different conditions such as weather, light, road.It would help them to drive carefully.
+
+
+
+Data
+The data was collected by the Seattle police department.it contain details of car accidents which have taken place within the city of Seattle.The time period of the data is from 2004 to present.The data consists of 37 attributes or variables and it includes information such as severity, location, collision type,Weather conditions, road condition and light conditions.
